@@ -34,64 +34,56 @@ AI/ML Engineer • Problem Solver • DSA Enthusiast • Exploring Space & Tech 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 <h3>☕ Click to View Java Repository</h3>
 <a href="https://github.com/LearnWithCherry/Java">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </a>
 
-<br><br>
-
+<br>
 <h3>🧠 Click to View DSA Repository</h3>
 <a href="https://github.com/LearnWithCherry/Data-Structure-and-Algorithm-in-CPP">
 <img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge&logo=thealgorithms&logoColor=white"/>
 </a>
 
-<br><br>
-
+<br>
 <h3>🔢 Click to View NumPy Repository</h3>
 <a href="https://github.com/LearnWithCherry/Artificial-Intelligence-and-Machine-Learning/tree/main/Numpy">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </a>
 
-<br><br>
-
+<br>
 <h3>📊 Click to View Pandas Repository</h3>
 <a href="https://github.com/LearnWithCherry/Artificial-Intelligence-and-Machine-Learning/tree/main/Pandas">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </a>
 
-<br><br>
-
+<br>
 <h3>📈 Click to View Matplotlib Repository</h3>
 <a href="https://github.com/LearnWithCherry/Artificial-Intelligence-and-Machine-Learning/tree/main/Matplotlib">
 <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
 </a>
 
-<br><br>
-
+<br>
 <h3>🎨 Click to View Seaborn Repository</h3>
 <a href="https://github.com/LearnWithCherry/Artificial-Intelligence-and-Machine-Learning/tree/main/Seaborn">
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
 
-<br><br>
-
+<br>
 <h3>🗄️ Click to View SQL Repository</h3>
 <a href="https://github.com/LearnWithCherry/Artificial-Intelligence-and-Machine-Learning/tree/main/SQL">
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </a>
 
-<br><br>
-
+<br>
 <h3>🌐 Click to View HTML Repository</h3>
 <a href="https://github.com/LearnWithCherry/Artificial-Intelligence-and-Machine-Learning/tree/main/HTML">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </a>
 
-<br><br>
-
+<br>
 <h3>🎨 Click to View CSS Repository</h3>
 <a href="https://github.com/LearnWithCherry/Artificial-Intelligence-and-Machine-Learning/tree/main/CSS">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
