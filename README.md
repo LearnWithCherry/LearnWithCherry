@@ -46,7 +46,7 @@
 </a>
 <br>
 <h3>Click to View Matplotlib Repository. </h3>
-<a href="https://github.com/LearnWithCherry/Matplotlib">
+<a href="https://github.com/LearnWithCherry/Artificial-Intelligence-and-Machine-Learning/tree/main/Matplotlib">
 <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
 </a>
 <br>
