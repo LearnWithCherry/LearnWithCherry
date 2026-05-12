@@ -1,5 +1,8 @@
-<h1 align="center">Hi , I'm Rajat Bhardwaj</h1>
-<h3 align="center">AI/ML Engineer • Problem Solver • Data Structure & Algorithms • Exploring Space & Tech 🚀</h3>
+<h1 align="center">Hi 👋, I'm Rajat Bhardwaj</h1>
+
+<h3 align="center">
+AI/ML Engineer • Problem Solver • DSA Enthusiast • Exploring Space & Tech 🚀
+</h3>
 
 ---
 
@@ -7,131 +10,132 @@
 
 - 🎓 Computer Science student focused on **Artificial Intelligence & Machine Learning**
 - 💻 Passionate about:
-  - AI/ML
+  - Artificial Intelligence & Machine Learning
   - Data Structures & Algorithms
   - Backend Development
   - System Design
 - 🧠 Love solving coding problems and building real-world projects
 - 🚗 Interested in Cars, Space Tech, Startups & Future Technologies
-- 🌱 Currently learning:
-  - Deep Learning
-  - Advanced DSA
-  - System Design
-  - AI Engineering
+
+### 🌱 Currently Learning
+- Deep Learning
+- Advanced DSA
+- AI Engineering
+- System Design
 
 ---
-## 🛠️ Tech Stack
 
-### Languages & Libraries
+# 🛠️ Tech Stack & Repositories
+
 <p align="left">
 
-<h3>Click to View Python Repository</h3>
+<h3>🐍 Click to View Python Repository</h3>
 <a href="https://github.com/LearnWithCherry/Artificial-Intelligence-and-Machine-Learning/tree/main/Python">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
 
-<br>
+<br><br>
 
-<h3>Click to View NumPy Repository</h3>
+<h3>☕ Click to View Java Repository</h3>
+<a href="https://github.com/LearnWithCherry/Java">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</a>
+
+<br><br>
+
+<h3>🧠 Click to View DSA Repository</h3>
+<a href="https://github.com/LearnWithCherry/Data-Structure-and-Algorithm-in-CPP">
+<img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge&logo=thealgorithms&logoColor=white"/>
+</a>
+
+<br><br>
+
+<h3>🔢 Click to View NumPy Repository</h3>
 <a href="https://github.com/LearnWithCherry/Artificial-Intelligence-and-Machine-Learning/tree/main/Numpy">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </a>
 
-<br>
+<br><br>
 
-<h3>Click to View Pandas Repository</h3>
+<h3>📊 Click to View Pandas Repository</h3>
 <a href="https://github.com/LearnWithCherry/Artificial-Intelligence-and-Machine-Learning/tree/main/Pandas">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </a>
 
-<br>
+<br><br>
 
-<h3>Click to View Matplotlib Repository</h3>
+<h3>📈 Click to View Matplotlib Repository</h3>
 <a href="https://github.com/LearnWithCherry/Artificial-Intelligence-and-Machine-Learning/tree/main/Matplotlib">
 <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
 </a>
 
-<br>
+<br><br>
 
-<h3>Click to View Seaborn Repository</h3>
+<h3>🎨 Click to View Seaborn Repository</h3>
 <a href="https://github.com/LearnWithCherry/Artificial-Intelligence-and-Machine-Learning/tree/main/Seaborn">
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
 
-<br>
+<br><br>
 
-<h3>Click to View SQL Repository</h3>
+<h3>🗄️ Click to View SQL Repository</h3>
 <a href="https://github.com/LearnWithCherry/Artificial-Intelligence-and-Machine-Learning/tree/main/SQL">
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </a>
 
-<br>
+<br><br>
 
-<h3>Click to View HTML Repository</h3>
+<h3>🌐 Click to View HTML Repository</h3>
 <a href="https://github.com/LearnWithCherry/Artificial-Intelligence-and-Machine-Learning/tree/main/HTML">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </a>
 
-<br>
+<br><br>
 
-<h3>Click to View CSS Repository</h3>
+<h3>🎨 Click to View CSS Repository</h3>
 <a href="https://github.com/LearnWithCherry/Artificial-Intelligence-and-Machine-Learning/tree/main/CSS">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </a>
 
 </p>
 
-### Tools
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,flask" />
-</p>
+---
+
+# 🚀 Featured Projects
+
+## 🔐 Fraud Detection System
+- Built an ML-based fraud detection system using Python & Scikit-learn
+- Performed:
+  - Data preprocessing
+  - Feature engineering
+  - Model evaluation
+- Applied classification algorithms to detect fraudulent transactions
+
+### Technologies Used
+`Python` • `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-Learn`
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔐 Fraud Detection System
-- Built an ML-based fraud detection model using Python & Scikit-learn
-- Performed data preprocessing, feature engineering, and model evaluation
-- Used classification algorithms to detect fraudulent transactions
-- Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
-
----
-
-### 📈 Data Analysis & Visualization Projects
+## 📈 Data Analysis & Visualization Projects
 - Exploratory Data Analysis using Pandas & NumPy
 - Interactive visualizations with Matplotlib & Seaborn
-- Worked on real-world datasets for insights & prediction
-
----
-<!--
-### 🤖 Machine Learning Projects
-- House Price Prediction
-- Student Performance Prediction
-- Spam Email Detection
-- Customer Segmentation
-- Movie Recommendation System
----
-
-### 🧠 Python Automation Projects
-- File Organizer using Python
-- Password Generator
-- Weather App using API
-- PDF/Image Processing Scripts
-- Data Cleaning Automation
+- Worked on real-world datasets for insights & predictions
 
 ---
 
-### 📊 Jupyter Notebook Projects
-- ML model experimentation
-- Data preprocessing pipelines
-- Visualization dashboards
-- Statistical analysis notebooks
--->
+## 🧠 DSA & Problem Solving
+- Solving algorithmic problems regularly
+- Practicing:
+  - Arrays
+  - Trees
+  - Graphs
+  - Dynamic Programming
+  - Recursion
+- Building strong problem-solving skills through coding challenges
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=LearnWithCherry&show_icons=true&theme=tokyonight" />
@@ -147,7 +151,7 @@
 
 ---
 
-## 🌐 Connect with Me
+# 🌐 Connect With Me
 
 <p align="left">
 
@@ -171,12 +175,19 @@
 
 ---
 
-## ⚡ Fun Fact
+# ⚡ Fun Fact
 
 ```python
-while(alive):
+while alive:
     eat()
     code()
     learn()
     build()
     sleep()
+```
+
+---
+
+<h3 align="center">
+⭐ Building Projects • Learning Continuously • Growing Every Day ⭐
+</h3>
