@@ -29,54 +29,41 @@
 <a href="https://github.com/LearnWithCherry/Python">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
-
-<br><br>
-
+<br>
 <h3>Click to View Java Repository</h3>
 <a href="https://github.com/LearnWithCherry/Java">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </a>
-
-<br><br>
-
-<h3>Click to View NumPy Repository</h3>
+<br>
+<h3>Click to View NumPy Repository. </h3>
 <a href="https://github.com/LearnWithCherry/NumPy">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </a>
-
-<br><br>
-
-<h3>Click to View Pandas Repository</h3>
+<br>
+<h3>Click to View Pandas Repository. </h3>
 <a href="https://github.com/LearnWithCherry/Pandas">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </a>
-
-<br><br>
-
-<h3>Click to View Matplotlib Repository</h3>
+<br>
+<h3>Click to View Matplotlib Repository. </h3>
 <a href="https://github.com/LearnWithCherry/Matplotlib">
 <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
 </a>
 <br>
-<h3>Click to View Seaborn Repository</h3>
+<h3>Click to View Seaborn Repository. </h3>
 <a href="https://github.com/LearnWithCherry/Seaborn">
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
-
-<br><br>
-
-<h3>Click to View Jupyter Repository</h3>
+<br>
+<h3>Click to View Jupyter Repository. </h3>
 <a href="https://github.com/LearnWithCherry/Jupyter">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </a>
-
-<br><br>
-
-<h3>Click to View Scikit-Learn Repository</h3>
+<br>
+<h3>Click to View Scikit-Learn Repository. </h3>
 <a href="https://github.com/LearnWithCherry/scikit-learn">
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </a>
-
 </p>
 
 ### Tools
