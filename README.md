@@ -1,10 +1,23 @@
-<h1 align="center">Hi 👋, I'm Rajat Bhardwaj</h1>
+<h1 align="center">Rajat Bhardwaj</h1>
 
-<h3 align="center">
-AI/ML Engineer • Problem Solver • DSA Enthusiast • Exploring Space & Tech 🚀
-</h3>
+<p align="center">
+  <b>AI/ML Engineer &nbsp;·&nbsp; DSA Enthusiast &nbsp;·&nbsp; Space & Tech Explorer 🚀</b>
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer%20Science-Student-7F77DD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Focused-1D9E75?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Enthusiast-D85A30?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data%20Structure-Learning-4C72B0?style=flat-square"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/LearnWithCherry"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/rajatbhardwaj2006"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/cherry_2006/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://instagram.com/cher.r.y.y.y"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
 
 ## 🚀 About Me
 
