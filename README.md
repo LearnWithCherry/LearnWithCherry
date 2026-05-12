@@ -1,48 +1,23 @@
-<!--
-Hi There 
-## 🌐 Connect with me
-
-<p align="left">
-
-<a href="https://github.com/LearnWithCherry" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/rajatbhardwaj2006" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/cher.r.y.y.y" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/cherry_2006/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</p>
--->
-
 <h1 align="center">Hi 👋, I'm Rajat Bhardwaj</h1>
 <h3 align="center">AI/ML Engineer • Problem Solver • DSA Enthusiast • Exploring Space & Tech 🚀</h3>
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🎓 Computer Science student focused on **Artificial Intelligence & Machine Learning**
 - 💻 Passionate about:
-  - AI/ML
+  - Artificial Intelligence
   - Data Structures & Algorithms
-  - Backend Development
+  - Machine Learning 
   - System Design
 - 🧠 Love solving coding problems and building real-world projects
 - 🚗 Interested in Cars, Space Tech, Startups & Future Technologies
 - 🌱 Currently learning:
   - Deep Learning
   - Advanced DSA
-  - Full Stack Development
   - System Design
+  - AI Engineering
 
 ---
 
@@ -50,7 +25,7 @@ Hi There
 
 ### Languages
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c" />
 </p>
 
 ### AI/ML
@@ -58,14 +33,26 @@ Hi There
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 </p>
 
-### Web & Backend
+### Libraries & Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask" />
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
 </p>
 
-### Database & Tools
+### Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,flask" />
 </p>
 
 ---
