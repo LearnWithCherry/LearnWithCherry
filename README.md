@@ -33,7 +33,7 @@
 <br>
 
 <h3>Click to View NumPy Repository</h3>
-<a href="https://github.com/LearnWithCherry/Artificial-Intelligence-and-Machine-Learning/tree/main/NumPy">
+<a href="https://github.com/LearnWithCherry/Artificial-Intelligence-and-Machine-Learning/tree/main/Numpy">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </a>
 
