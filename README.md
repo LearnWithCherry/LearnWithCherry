@@ -96,7 +96,50 @@
 </p>
 
 ---
+---
 
+## 🚀 Featured Projects
+
+### 🔐 Fraud Detection System
+- Built an ML-based fraud detection model using Python & Scikit-learn
+- Performed data preprocessing, feature engineering, and model evaluation
+- Used classification algorithms to detect fraudulent transactions
+- Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+
+---
+
+### 📈 Data Analysis & Visualization Projects
+- Exploratory Data Analysis using Pandas & NumPy
+- Interactive visualizations with Matplotlib & Seaborn
+- Worked on real-world datasets for insights & prediction
+
+---
+
+### 🤖 Machine Learning Projects
+- House Price Prediction
+- Student Performance Prediction
+- Spam Email Detection
+- Customer Segmentation
+- Movie Recommendation System
+
+---
+
+### 🧠 Python Automation Projects
+- File Organizer using Python
+- Password Generator
+- Weather App using API
+- PDF/Image Processing Scripts
+- Data Cleaning Automation
+
+---
+
+### 📊 Jupyter Notebook Projects
+- ML model experimentation
+- Data preprocessing pipelines
+- Visualization dashboards
+- Statistical analysis notebooks
+
+---
 ## ⚡ Fun Fact
 
 ```python
