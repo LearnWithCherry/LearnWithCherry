@@ -42,6 +42,13 @@
 
 <p align="left">
 
+<h3>🧠 Click to View Machine Learning Repository</h3>
+<a href="https://github.com/LearnWithCherry/Artificial-Intelligence-and-Machine-Learning">
+<img src="https://img.shields.io/badge/AI_&_ML_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br>
+
 <h3>🐍 Click to View Python Repository</h3>
 <a href="https://github.com/LearnWithCherry/Artificial-Intelligence-and-Machine-Learning/tree/main/Python">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -189,10 +196,3 @@ while alive:
     learn()
     build()
     sleep()
-```
-
----
-
-<h3 align="center">
-⭐ Building Projects • Learning Continuously • Growing Every Day ⭐
-</h3>
