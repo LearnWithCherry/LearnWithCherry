@@ -147,21 +147,16 @@
 
 ---
 
-# 📊 GitHub Stats
+## GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LearnWithCherry&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LearnWithCherry&theme=tokyonight" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=LearnWithCherry&show_icons=true&theme=graywhite&hide_border=true&bg_color=faf8f4&title_color=3d3529&text_color=6b5f4e&icon_color=a0856b)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LearnWithCherry&layout=compact&theme=tokyonight" />
-</p>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=LearnWithCherry&theme=default&hide_border=true&background=faf8f4&ring=a0856b&fire=c17a3e&currStreakLabel=3d3529&sideLabels=6b5f4e&dates=9a8878&currStreakNum=3d3529&sideNums=3d3529)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LearnWithCherry&layout=compact&theme=graywhite&hide_border=true&bg_color=faf8f4&title_color=3d3529&text_color=6b5f4e)
+
 
 # 🌐 Connect With Me
 
@@ -185,14 +180,3 @@
 
 </p>
 
----
-
-# ⚡ Fun Fact
-
-```python
-while alive:
-    eat()
-    code()
-    learn()
-    build()
-    sleep()
