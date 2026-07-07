@@ -405,17 +405,15 @@ Practicing regularly on LeetCode with focus on:
 ## 📈 GitHub Stats
 
 <div align="center">
-
+<!--
 ![Stats](https://github-readme-stats.vercel.app/api?username=LearnWithCherry&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=LearnWithCherry&theme=tokyonight&hide_border=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LearnWithCherry&layout=compact&theme=tokyonight&hide_border=true)
-
+-->
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=LearnWithCherry&theme=one_dark_pro&hide_border=true)
 </div>
 
 ---
-
+<!--
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -423,9 +421,8 @@ Practicing regularly on LeetCode with focus on:
 [![trophy](https://github-profile-trophy.vercel.app/?username=LearnWithCherry&theme=onestar&no-frame=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
+-->
 ---
-
 ## 🌐 Connect With Me
 
 <p align="center">
