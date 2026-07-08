@@ -204,23 +204,12 @@ Practicing regularly on LeetCode with focus on:
 </p>
 📈 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=LearnWithCherry&theme=github-dark-blue&hide_border=true"
-    width="100%"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=LearnWithCherry&theme=github-dark&hide_border=true&area=true"
-    width="100%"
-    alt="Contribution Graph"
-  />
+<p>
+  <img src="https://streak-stats.demolab.com?user=LearnWithCherry&theme=github-dark-blue&hide_border=true", align="left"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LearnWithCherry&theme=github-dark&hide_border=true&area=true", align="left"/>
 </p>
 🌐 Connect With Me
-
+<br>
 <p align="center">
 
 <a href="https://github.com/LearnWithCherry" target="_blank">
