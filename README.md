@@ -238,7 +238,9 @@ Practicing regularly on LeetCode with focus on:
   <b>⭐ If you find my work interesting, consider starring my repos — it motivates me to build more!</b>
 </p>
 
+<h2>
+  <p align="center">
+    <i>Made with ❤️ by Rajat Bhardwaj</i>
+  </p>
+</h2>
 
-<p align="center">
-  <i>Made with ❤️ by Rajat Bhardwaj</i>
-</p>
