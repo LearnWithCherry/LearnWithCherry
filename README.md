@@ -167,7 +167,7 @@ Practicing regularly on LeetCode with focus on:
 </a>
 <hr width="100%">
 <h3>Data Structures & Algorithms(C++)</h3>
-<a href="https://github.com/LearnWithCherry/Data-Structure-and-Algorithm-in-CPP">
+<a href="https://github.com/LearnWithCherry/Data-Structure-and-Algorithms.git">
 <img src="https://img.shields.io/badge/DSA_in_C++-00599C?style=for-the-badge&logo=thealgorithms&logoColor=white"/>
 </a>
 <hr width="100%">
